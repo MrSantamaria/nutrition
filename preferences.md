@@ -6,14 +6,13 @@ These preferences should be applied when ordering groceries or planning meal pre
 - **Feta cheese** — do not include in recipes or shopping lists
 
 ## Prep Preferences
-- **Onions:** Buy pre-diced/pre-chopped onions whenever available. Diego dislikes chopping onions.
+- No pre-cut preferences — Diego cuts his own vegetables now.
 
 ## Spice & Heat
 - **Default to mild/low heat** for condiments and sauces (salsa, hot sauce, etc.). Diego has his own ways to spice things up if needed.
 
 ## Ordering Notes
 - Order via DoorDash grocery delivery
-- When an item has a pre-cut or pre-prepped option (e.g., diced onions, minced garlic), prefer that over whole produce
 - No brand preference — whatever is available and reasonably priced
 
 ## Chrome Extension Ordering Rules
