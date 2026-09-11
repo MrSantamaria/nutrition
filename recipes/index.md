@@ -12,6 +12,8 @@ All tracked recipes with per-serving macros. For full instructions, see the link
 | Crockpot Mediterranean "Crack" Chicken | ~1/7 batch | 42g | 6g | 21g | ~390 | [→](../containers/meals/crockpot-mediterranean-crack-chicken.md) |
 | Japanese Golden Curry (Vegetable) | ~1/7 batch | 3g | 33g | 5g | ~200 | [→](../containers/meals/japanese-golden-curry.md) |
 | Freezer Breakfast Burritos | 1 burrito | 28g | 42g | 26g | ~530 | [→](../containers/meals/breakfast-burritos.md) |
+| PB Powder Peanut Noodles (noodles + sauce) | ~1/7 batch | 12g | 43g | 3g | ~240 | [→](../containers/meals/pb-powder-peanut-noodles.md) |
+| Quick Chicken Quesadillas | 1 quesadilla | 35g | 28g | 16g | ~420 | [→](../containers/meals/chicken-quesadillas.md) |
 
 ---
 
@@ -21,6 +23,7 @@ All tracked recipes with per-serving macros. For full instructions, see the link
 |---|---|---|---|---|---|---|
 | Lemon Herb Rice | 1 cup | 4g | 38g | 5g | ~210 | [→](../containers/bases/lemon-herb-rice.md) |
 | Herbed Couscous | 1 cup | 7g | 36g | 3g | ~200 | [→](../containers/bases/herbed-couscous.md) |
+| Pasta | 1 cup | 8g | 43g | 1g | ~220 | [→](../containers/bases/pasta.md) |
 
 ---
 
@@ -31,6 +34,7 @@ All tracked recipes with per-serving macros. For full instructions, see the link
 | Baked Chicken Thighs | 6 oz | 36g | 1g | 9g | ~230 | [→](../containers/proteins/baked-chicken-thighs.md) |
 | Lemon Garlic Salmon | 1 fillet (6 oz) | 34g | 1g | 15g | ~280 | [→](../containers/proteins/lemon-garlic-salmon.md) |
 | Spiced Chickpeas | 1 cup | 11g | 32g | 5g | ~210 | [→](../containers/proteins/spiced-chickpeas.md) |
+| Turkey Meatballs | ~5 meatballs | 30g | 8g | 14g | ~280 | [→](../containers/proteins/turkey-meatballs.md) |
 
 ---
 
@@ -40,6 +44,7 @@ All tracked recipes with per-serving macros. For full instructions, see the link
 |---|---|---|---|---|---|---|
 | Roasted Mediterranean Veggies | 1 cup | 2g | 9g | 5g | ~90 | [→](../containers/veggies/roasted-mediterranean-veggies.md) |
 | Cucumber Tomato Salad | 1 cup | 1g | 6g | 5g | ~70 | [→](../containers/veggies/cucumber-tomato-salad.md) |
+| Roasted Broccoli (or Broccolini) | 1 cup | 3g | 8g | 5g | ~90 | [→](../containers/veggies/roasted-broccoli.md) |
 
 ---
 
@@ -49,3 +54,25 @@ All tracked recipes with per-serving macros. For full instructions, see the link
 |---|---|---|---|---|---|---|
 | Hummus (store-bought) | 2 tbsp | 2g | 4g | 5g | ~70 | [→](../containers/boosters/hummus.md) |
 | Feta & Olive Mix | 1/4 cup | 5g | 3g | 13g | ~150 | [→](../containers/boosters/feta-olive-mix.md) |
+
+---
+
+## Indulgent / Off-Plan (see `indulgent/`)
+
+Richer, special-occasion meals outside the modular bowl system. Still tracked here for macros.
+
+| Recipe | Serving | Protein | Carbs | Fat | Cal | File |
+|---|---|---|---|---|---|---|
+| Beef Shank Bouillon Soup | ~1/7 batch | 50g | 25g | 12g | ~430 | [→](../indulgent/beef-shank-bouillon-soup.md) |
+| Tortilla Española (Papa, Cebolla y Chorizo) | 1 wedge (1/6) | 14g | 24g | 21g | ~350 | [→](../indulgent/tortilla-espanola-chorizo.md) |
+| Classic Rice Pilaf | ~3/4 cup | 4g | 34g | 6g | ~210 | [→](../indulgent/classic-rice-pilaf.md) |
+
+---
+
+## Drinks (see `drinks/`)
+
+Juicer/beverage recipes, made fresh rather than batch-prepped.
+
+| Recipe | Serving | Protein | Carbs | Fat | Cal | File |
+|---|---|---|---|---|---|---|
+| Carrot Orange Juice | 8 oz | 2g | 26g | 0g | ~110 | [→](../drinks/carrot-orange-juice.md) |

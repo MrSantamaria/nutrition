@@ -16,6 +16,8 @@ Personal Mediterranean-style bowl meal prep system for Diego.
 - Plans live in `plans/` as weekly markdown files
 - Container recipes live in `containers/` organized by category
 - Complete meal recipes (burritos, crockpot meals) live in `containers/meals/`
+- `indulgent/` — off-plan, not-as-healthy recipes (richer comfort food, special-occasion meals) that fall outside the modular bowl system. Still logged in `recipes/index.md` for macro tracking.
+- `drinks/` — juicer/beverage recipes. Made fresh, not batch-prepped like other containers. Still logged in `recipes/index.md`.
 - `recipes/index.md` — master recipe index with per-serving macros (protein, carbs, fat) for all tracked recipes; update when adding new recipes
 - `preferences.md` in repo root — ordering/prep preferences (dislikes, pre-cut options). Always check this when building shopping lists.
 - Run `/validate-shopping-list` before ordering to check leftovers with the user

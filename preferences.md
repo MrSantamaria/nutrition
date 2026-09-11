@@ -8,6 +8,7 @@ These preferences should be applied when ordering groceries or planning meal pre
 
 ## Prep Preferences
 - No pre-cut preferences — Diego cuts his own vegetables now.
+- **Carrots:** order long/whole carrots, not baby carrots — needed for good yield with the juicer.
 
 ## Spice & Heat
 - **Default to mild/low heat** for condiments and sauces (salsa, hot sauce, etc.). Diego has his own ways to spice things up if needed.
