@@ -12,6 +12,7 @@ All tracked recipes with per-serving macros. For full instructions, see the link
 | Crockpot Mediterranean "Crack" Chicken | ~1/7 batch | 42g | 6g | 21g | ~390 | [→](../containers/meals/crockpot-mediterranean-crack-chicken.md) |
 | Japanese Golden Curry (Vegetable) | ~1/7 batch | 3g | 33g | 5g | ~200 | [→](../containers/meals/japanese-golden-curry.md) |
 | Freezer Breakfast Burritos | 1 burrito | 28g | 42g | 26g | ~530 | [→](../containers/meals/breakfast-burritos.md) |
+| Turkey Sausage & Bacon Breakfast Burritos | 1 burrito | 44g | 51g | 34g | ~690 | [→](../containers/meals/turkey-sausage-bacon-breakfast-burritos.md) |
 | PB Powder Peanut Noodles (noodles + sauce) | ~1/7 batch | 12g | 43g | 3g | ~240 | [→](../containers/meals/pb-powder-peanut-noodles.md) |
 | Quick Chicken Quesadillas | 1 quesadilla | 35g | 28g | 16g | ~420 | [→](../containers/meals/chicken-quesadillas.md) |
 
