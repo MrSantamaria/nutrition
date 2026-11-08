@@ -67,6 +67,8 @@ Richer, special-occasion meals outside the modular bowl system. Still tracked he
 | Beef Shank Bouillon Soup | ~1/7 batch | 50g | 25g | 12g | ~430 | [→](../indulgent/beef-shank-bouillon-soup.md) |
 | Tortilla Española (Papa, Cebolla y Chorizo) | 1 wedge (1/6) | 14g | 24g | 21g | ~350 | [→](../indulgent/tortilla-espanola-chorizo.md) |
 | Classic Rice Pilaf | ~3/4 cup | 4g | 34g | 6g | ~210 | [→](../indulgent/classic-rice-pilaf.md) |
+| Jamaican Shredded Beef & Sweet Potato Chili (chili only) | ~1/8 batch | 43g | 64g | 28g | ~680 | [→](../indulgent/jamaican-shredded-beef-sweet-potato-chili.md) |
+| Honey Butter Cornbread (chili side) | 1 square (1/9) | 5g | 30g | 12g | ~250 | [→](../indulgent/jamaican-shredded-beef-sweet-potato-chili.md#side-honey-butter-cornbread-bake-fresh-day-of) |
 
 ---
 
